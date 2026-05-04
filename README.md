@@ -10,8 +10,8 @@ In modern Formula 1, a race is rarely won purely on the track; it is won on the 
 
 Using real-world, high-frequency telemetry data from the Bahrain Grand Prix, this tool trains an XGBoost algorithm to learn the complex, non-linear degradation curves of different Pirelli tire compounds. It then wraps that AI brain in a simulation engine to calculate the exact optimal pit-stop strategy to minimize total race time.
 
-*(Note: Add a screenshot of your dashboard here! Name the file `dashboard_screenshot.png` and upload it to your repo)*
-![Strategy Dashboard Placeholder](dashboard_screenshot.png) 
+
+![Strategy Dashboard Placeholder](Screenshot.pdf) 
 
 ## 🧠 The Architecture
 This project mimics a production-level data science workflow:
